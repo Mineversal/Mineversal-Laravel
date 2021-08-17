@@ -10,9 +10,9 @@
         <meta name="google-site-verification" content=""/>
         <meta property="og:title" content="Mineversal - Universe in your hand"/>
         <meta property="og:description"content="Mineversal is everything you need"/>
-        <meta property="og:image" content="https://mineversal.com/assets/img/logo2.png"/>
+        <meta property="og:image" content=""/>
         <meta property="og:type" content="website"/>
-        <meta property="og:url" content="https://mineversal.com/"/>
+        <meta property="og:url" content=""/>
 
         <!-- CSRF Token -->
         <meta name="csrf-token" content="{{ csrf_token() }}">

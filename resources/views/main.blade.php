@@ -55,7 +55,7 @@
             <div class="row mx-4">
                 <div class ="col-md-4">
                     <div class="lesson-wrap mx-auto">
-                        <a class="text-center" href="https://news.mineversal.com" id="lesson-btn">
+                        <a class="text-center" href="" id="lesson-btn">
                             <div class="lesson-wrap-1 my-3">
                                 <img src="{{ asset('assets/img/logo2.png') }}" alt="" srcset="" width="100">
                                 <h1>News And Blog</h1>
@@ -66,7 +66,7 @@
                 </div>
                 <div class ="col-md-4">
                     <div class="lesson-wrap">
-                        <a class="text-center" href="https://beauty.mineversal.com" id="lesson-btn">
+                        <a class="text-center" href="" id="lesson-btn">
                             <div class="lesson-wrap-1 my-3">
                                 <img src="{{ asset('assets/img/logo2.png') }}" alt="" srcset="" width="100">
                                 <h1>Beauty</h1>
@@ -77,7 +77,7 @@
                 </div>
                 <div class ="col-md-4">
                     <div class="lesson-wrap">
-                        <a class="text-center" href="https://music.mineversal.com" id="lesson-btn">
+                        <a class="text-center" href="" id="lesson-btn">
                             <div class="lesson-wrap-1 my-3">
                                 <img src="{{ asset('assets/img/logo2.png') }}" alt="" srcset="" width="100">
                                 <h1>Music</h1>

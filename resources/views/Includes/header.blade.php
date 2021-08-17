@@ -19,10 +19,10 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="fa fa-fw fa-folder"></i> Our Business</a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="https://news.mineversal.com">News</a></li>
-                            <li><a class="dropdown-item" href="https://music.mineversal.com">Music</a></li>
+                            <li><a class="dropdown-item" href="">News</a></li>
+                            <li><a class="dropdown-item" href="">Music</a></li>
                             <li><hr class="dropdown-divider"></li>
-                            <li><a class="dropdown-item" href="https://beauty.mineversal.com">Beauty</a></li>
+                            <li><a class="dropdown-item" href="">Beauty</a></li>
                         </ul>
                     </li>
                 </ul>

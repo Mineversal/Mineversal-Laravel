@@ -11,7 +11,7 @@
                     <li><a href="">Term of Services</a></li>
                     <li><a href="">Privacy Policy</a></li>
                     <li><a href="">Disclaimer</a></li>
-                    <li><a href="https://ads.mineversal.com/">Advertising</a></li>
+                    <li><a href="">Advertising</a></li>
                     <!----<li><a href="">Verification</a></li> -->
                 </ul>
             </div>
@@ -31,9 +31,11 @@
                     <a href="https://twitter.com/mineversal_" class="fa fa-twitter"></a>
                     <a href="https://instagram.com/mineversal" class="fa fa-instagram"></a>
                     <a href="https://youtube.com/mineversal" class="fa fa-youtube"></a>
+                    <a href="https://www.linkedin.com/company/mineversal" class="fa fa-linkedin"></a>
                 </div>
                 <div class="mt-2">
                     <a href="https://wa.me/+6285156633114" class="fa fa-whatsapp"></a>
+                    <a href="https://github.com/mineversal" class="fa fa-github"></a>
                     <a href="https://t.me/mineversal" class="fa fa-telegram"></a>
                     <a href="https://sestyc.com/user/mineversal" class="fa fa-heart"></a>
                     <a href="https://open.spotify.com/artist/7mG43AWgnlQIYNbQXsBFfy?si=D4tcTrCrSPSrhljhtCn1_Q" class="fa fa-spotify"></a>

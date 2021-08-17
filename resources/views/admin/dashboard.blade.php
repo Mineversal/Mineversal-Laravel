@@ -12,7 +12,7 @@
                         <a class="dashboard-card" href="#">
                             <div class="card bg-dark">
                                 <div class="card-body mx-0 row text-white">
-                                    <i class="icon mx-0 fa fa-user col-5"></i>
+                                    <i class="icon mx-0 fa fa-user col-5" style="font-size: 60px;"></i>
                                     <div class="col-7">
                                         <p class="text-left row col-md-12" title="Statistics">Pesan</p>
                                         <h2 class="text-left row col-md-12">12<small></small></h2>
@@ -25,7 +25,7 @@
                         <a class="dashboard-card" href="#">
                             <div class="card bg-dark">
                                 <div class="card-body mx-0 row text-white">
-                                    <i class="icon mx-0 fa fa-user col-5"></i>
+                                    <i class="icon mx-0 fa fa-user col-5" style="font-size: 60px;"></i>
                                     <div class="col-7">
                                         <p class="text-left row col-md-12" title="Statistics">Pesan</p>
                                         <h2 class="text-left row col-md-12">12<small></small></h2>
@@ -38,7 +38,7 @@
                         <a class="dashboard-card" href="#">
                             <div class="card bg-dark">
                                 <div class="card-body mx-0 row text-white">
-                                    <i class="icon mx-0 fa fa-user col-5"></i>
+                                    <i class="icon mx-0 fa fa-user col-5" style="font-size: 60px;"></i>
                                     <div class="col-7">
                                         <p class="text-left row col-md-12" title="Statistics">Pesan</p>
                                         <h2 class="text-left row col-md-12">12<small></small></h2>
@@ -51,7 +51,7 @@
                         <a class="dashboard-card" href="#">
                             <div class="card bg-dark">
                                 <div class="card-body mx-0 row text-white">
-                                    <i class="icon mx-0 fa fa-user col-5"></i>
+                                    <i class="icon mx-0 fa fa-user col-5" style="font-size: 60px;"></i>
                                     <div class="col-7">
                                         <p class="text-left row col-md-12" title="Statistics">Pesan</p>
                                         <h2 class="text-left row col-md-12">12<small></small></h2>
